@@ -176,7 +176,7 @@ default_settings = {
     },
     "server": {
         "host": None,
-        "port": 5000,
+        "port": 5128,
         "firstRun": True,
         "startOnceInSafeMode": False,
         "ignoreIncompleteStartup": False,

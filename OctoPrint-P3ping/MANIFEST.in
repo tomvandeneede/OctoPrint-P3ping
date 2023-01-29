@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_p3ping/templates *
+recursive-include octoprint_p3ping/translations *
+recursive-include octoprint_p3ping/static *
